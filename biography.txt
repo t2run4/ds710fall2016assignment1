@@ -1,29 +1,8 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
-1. What is your name?  
-Tom Runkle
-
+1. What is your name?
 2. Why are you interested in Data Science?
-I'm interested in Data Science because I'm a naturally curious person and love to dig into data to try and make sense of it and find answers to questions.  
-I also love that it is interdisciplinary – to me it seems to be the perfect blend of computer science, statistics, and business – all used to solve really interesting problems. 
- 
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
-My early career, up until about 10 years ago, I was an app developer using mostly visual basic.  More recently I've taken two semesters of programming in a stats program, 
-the first semester was split approx 30/70 between R and Base SAS.  The second semester was all SAS.  I also passed the base and advanced SAS programmer certifications and use primarily SAS at work.
-I mostly use SAS to query and summarize data - mostly SQL.  During this summer, I also took the Udacity course - Intro to Java Programming as sort of a prerequisite to this program.    
-
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
-I started an MS in Stats program back in 2012 at Texas A&M (the 2 SAS classes mentioned above were part of this),  I only completed one other course and that was 
-Intro to Mathematical Statistics - I found it very challenging.  I had to put school on hold as I took a manager role at work and thought it would be too difficult to juggle - pretty sure I was right about that.  
-But, I'm glad I did because it gave me a chance to reassess my goals and programs like this one got off the ground - which is more in line with the type of work I want to do.  Again, I really
-enjoy the interdisciplinary nature of data science rather than the pure stats.  At work, I really only deal with summary type / descriptive statistics.  
-
 5.  Do you have other experience with R or Python?
-None with Python and just the 1/3 semester of R back in Spring of 2013 - I never really used it after that class so haven't retained too much.  
-
 6.  What do you hope to learn in this class?
-R and Python.  From what I know, I believe these are two of the most popular and powerful languages used by data scientists so I'm anxious to get familiar with them. I'm also
-happy that we're using Github.  I've heard of it before but wasn't really sure what it was.  Quite honestly, there are a lot of terms / tools / programs etc. that folks use out in the world and at work when talking about data
-science and it sometimes all sounds like gibberish so I'm happy to finally be getting some exposure to some of this stuff.   
-
 7.  Is there anything else you would like to share with us?
-I don't think so other than I'm happy to be here and excited for what I'm going to learn!
